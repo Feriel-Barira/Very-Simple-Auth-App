@@ -7,7 +7,7 @@ A simple React application that demonstrates user authentication using JWT (JSON
 **JSON Server Auth** for backend authentication and authorization.
 ### Installation
 #### Step 1: Install Frontend Dependencies
-1. Clone the repository: [git clone https://github.com/your-username/mu-auth-app.git]
+1. Clone the repository: [[git clone https://github.com/your-username/mu-auth-app.git]](https://github.com/Feriel-Barira/Very-Simple-Auth-App.git)
 2. Navigate to the project directory: cd mu-auth-app
 3. Install frontend dependencies: npm install
 #### Step 2: Set Up JSON Server Auth
